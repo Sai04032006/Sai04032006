@@ -104,6 +104,19 @@ I believe **clean code is my sword** and **problem-solving is my battlefield**.
 
 ---
 
+## 🟡 Pac-Man Eats My Contributions
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" 
+    srcset="https://raw.githubusercontent.com/Sai04032006/Sai04032006/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" 
+    srcset="https://raw.githubusercontent.com/Sai04032006/Sai04032006/output/pacman-contribution-graph.svg">
+  <img alt="Pac-Man contribution graph"
+    src="https://raw.githubusercontent.com/Sai04032006/Sai04032006/output/pacman-contribution-graph.svg">
+</picture>
+
+---
+
 ## 🔗 Connect With the Warrior
 
 <div align="center">
