@@ -1,22 +1,19 @@
-<h1 align="center">🔥 Hey 👋 This is Sai Lokesh 🔥</h1>
-<h3 align="center">The One Who Codes. The One Who Builds. The One Who Conquers.</h3>
+<h1 align="center">Hi 👋 I'm Sai Lokesh</h1>
+<h3 align="center">Computer Science Engineer | Full-Stack Developer | AI Enthusiast</h3>
 
 ###
 
-## 🛡️ About Me (Baahubali Mode ON)
+## About Me
 
-⚔️ I am **Sai Lokesh**, a **Computer Science Engineer** forged in logic, sharpened by code,  
-and driven by the hunger to **build powerful software and intelligent systems**.
+I am **Sai Lokesh**, a Computer Science Engineering student with a strong interest in software development and applied artificial intelligence.  
+I enjoy designing and building efficient, scalable applications and working across both frontend and backend systems.
 
-💥 From **AI-powered image classification** to **full-stack enterprise applications**,  
-I don’t just write code — **I architect systems**.
-
-🏹 Strong in **Data Structures, Algorithms, Full-Stack Development, and Applied AI**,  
-I believe **clean code is my sword** and **problem-solving is my battlefield**.
+I have hands-on experience in **full-stack web development**, **RESTful API design**, and **deep learning-based image classification**.  
+I focus on writing clean, maintainable code and continuously improving my problem-solving and system design skills.
 
 ###
 
-## 👑 My Tech Arsenal
+## Technical Skills
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=java" height="60" />
@@ -42,59 +39,59 @@ I believe **clean code is my sword** and **problem-solving is my battlefield**.
 
 ###
 
-## 🧠 AI & Machine Learning Power
+## AI & Machine Learning
 
-⚡ **Deep Learning with PyTorch**  
-⚡ **CNN-based Image Classification**  
-⚡ **Computer Vision & Visual Intelligence**  
-⚡ **Model Training, Inference & Optimization**
-
-> *“When data speaks, my models listen.”*
-
-###
-
-## 🏰 Projects – Built Like Kingdoms
-
-### 🐠 SeaVision – Sea Animals Image Classification  
-**Tech:** PyTorch, Python, Flask, HTML, CSS, JavaScript  
-
-- Built and trained CNN models for sea animal classification  
-- Flask backend for prediction serving  
-- Responsive UI for real-time image upload and results  
-- Modular design for scalability  
+- Deep Learning using PyTorch  
+- Convolutional Neural Networks (CNNs)  
+- Image Classification  
+- Computer Vision fundamentals  
+- Model training, evaluation, and inference  
 
 ###
 
-### 🚗 Car Ways – Car Rental System  
-**Tech:** React, Spring Boot, MySQL  
+## Projects
 
-- Full-stack car rental platform  
-- Authentication, car listings, bookings  
-- REST APIs with Spring Boot  
-- Clean and responsive React UI  
+### SeaVision – Sea Animals Image Classification  
+**Technologies:** PyTorch, Python, Flask, HTML, CSS, JavaScript  
 
-###
-
-## 🧩 Core Strengths
-
-🗡️ Data Structures & Algorithms  
-🗡️ Backend Development & REST APIs  
-🗡️ Full-Stack Web Development  
-🗡️ AI Model Design & Deployment  
-🗡️ Debugging & Optimization  
+- Developed CNN-based models for sea animal image classification  
+- Implemented a Flask backend for serving predictions  
+- Built a responsive interface for image upload and result display  
+- Organized the project into modular components for scalability  
 
 ###
 
-## 🌍 Languages I Speak
+### Car Ways – Car Rental System  
+**Technologies:** React, Spring Boot, MySQL  
 
-- 🇬🇧 English – Fluent  
-- 🇮🇳 Hindi – Fluent  
-- 🇯🇵 Japanese – Basic  
-- 🌱 Telugu – Native  
+- Built a full-stack car rental web application  
+- Implemented user authentication and booking features  
+- Designed RESTful APIs using Spring Boot  
+- Integrated MySQL database for data management  
+- Developed a responsive frontend using React  
 
 ###
 
-## 📊 Battle Stats
+## Core Competencies
+
+- Data Structures and Algorithms  
+- Backend Development and REST APIs  
+- Full-Stack Web Development  
+- AI Model Development and Deployment  
+- Debugging and Performance Optimization  
+
+###
+
+## Languages
+
+- English – Fluent  
+- Hindi – Fluent  
+- Telugu – Native  
+- Japanese – Basic  
+
+###
+
+## GitHub Activity
 
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=Sai04032006&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5" height="150" />
@@ -103,7 +100,7 @@ I believe **clean code is my sword** and **problem-solving is my battlefield**.
 
 ###
 
-## 🟡 Pac-Man Eats My Contributions
+## Contribution Graph
 
 <picture>
   <source media="(prefers-color-scheme: dark)" 
@@ -116,7 +113,7 @@ I believe **clean code is my sword** and **problem-solving is my battlefield**.
 
 ###
 
-## 🔗 Connect With Me
+## Connect With Me
 
 <div align="center">
   <a href="https://www.linkedin.com/in/pulimi-sri-sai-lokesh-reddy-90b061376">
@@ -126,7 +123,3 @@ I believe **clean code is my sword** and **problem-solving is my battlefield**.
     <img src="https://img.shields.io/static/v1?message=GitHub&logo=github&color=000000&logoColor=white&style=for-the-badge" />
   </a>
 </div>
-
-###
-
-<h2 align="center">🔥 “I don’t wait for opportunities. I BUILD them.” 🔥</h2>
